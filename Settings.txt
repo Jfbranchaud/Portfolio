@@ -1,0 +1,17 @@
+{
+    "liveServer.settings.CustomBrowser": "chrome"
+
+
+    "liveSassCompile.settings.formats": [
+      {
+        "format": "expanded",
+        "extensionName": ".css",
+        "savePath": "~/../css/"
+      }
+    ]
+
+
+    
+}
+
+

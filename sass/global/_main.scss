@@ -1,0 +1,79 @@
+#texteportfolio{
+padding-top:10%;
+}
+
+.ligne{
+    align-self:center;
+    width: 500px;
+    border-bottom: 10px solid #FC5C03;
+}
+
+p{
+    font-size:1.5em;
+}
+
+.boites{
+    margin-top:10%; 
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr;
+    grid-gap: 40px;
+}
+
+
+
+img{
+    width:450px;
+    height:250px;
+}
+
+.boite1{
+    width:450px;
+    height:250px;
+    border: solid white 4px;
+}
+
+.boite2{
+    margin-top:100px;
+    width:450px;
+    height:250px;
+    border: solid white 4px;
+}
+
+.boite3{
+    margin-top:100px;
+    width:450px;
+    height:250px;
+    border: solid white 4px;
+}
+
+.boite4{
+    /*margin-left:100px;*/
+    width:450px;
+    height:250px;
+    border: solid white 4px;
+}
+
+.boite5{
+    width:450px;
+    height:250px;
+}
+
+.boite6{
+    width:450px;
+    height:250px;
+    border: solid white 4px;
+}
+
+.moi{
+    padding-left:10px;
+    text-align:left;
+    color:white;
+    font-size:0.75em; 
+    border: solid white 0.5px;
+}
+
+.sujet{
+    margin-top:10%;
+    color:white;
+    font-size:0.80;
+}

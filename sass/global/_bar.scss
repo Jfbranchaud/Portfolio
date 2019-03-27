@@ -1,0 +1,35 @@
+.skills {
+  width: 90%;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  font-size :0.80em;
+}
+
+.skill-column {
+  width: 50%;
+  float: left;
+}
+    
+.skill-label {
+  font-size: 1em;
+  text-align:center;
+}
+                
+.skill-icons {
+  text-align: center;
+    span {
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    margin: 10px 5px 20px 5px;
+    font-weight: 700;
+    border: solid 2px white;
+    } 
+                  
+}
+    
+
+  
